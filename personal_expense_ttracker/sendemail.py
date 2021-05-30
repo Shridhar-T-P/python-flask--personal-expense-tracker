@@ -14,7 +14,7 @@ def sendmail(TEXT,email):
     s.sendmail("il.shridhartp24@gmail.com", email, message)
     s.quit()
 def sendgridmail(user,TEXT):
-    sg = sendgrid.SendGridAPIClient('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')
+    sg = sendgrid.SendGridAPIClient('SG.qQYfaIR9iJPyQczX9EMw.foQ6m09MaLx8BXuB7GnAGt1eM58Tb_SDzj-8ec8xkDo')
     from_email = Email("shridhartp24@gmail.com") 
     to_email = To(user) 
     subject = "Sending with SendGrid is Fun"
