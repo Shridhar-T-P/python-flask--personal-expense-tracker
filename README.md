@@ -1,3 +1,19 @@
 # python-flask--personal-expense-tracker
 personal expense tracker using flask
-![Screenshot (4)](https://github.com/user-attachments/assets/3182ae17-8bb5-4bbe-89c4-420b6733e2d8)
+Personal Expense Tracker
+
+youtube video demo link https://youtu.be/61TvtkJZBZc
+
+report-pdf-- SPS-9883-Personal Expense Tracker.pdf
+
+snap--- Screenshot (6)
+
+Screenshot (7)
+
+Screenshot (9)
+
+Screenshot (8)
+
+Screenshot (10)
+
+Screenshot (13)
